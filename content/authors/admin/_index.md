@@ -1,7 +1,7 @@
 ---
 title: Xingtong Yu
 role: Ph.D. Student
-avatar_filename: ""
+avatar_filename: null
 bio: My research interests include data mining, graph mining and prompt.
 interests: []
 social:
@@ -40,4 +40,3 @@ first_name: Alice
 email: 1317125762@qq.com
 ---
 Xingtong Yu is a Ph.D. Student at the University of Science and Technology of China(USTC). His research  interset is graph mining, graph neural networks, and learning on heterogeneous information networks. More specifically,  he is investigating the novel research problems such as few-shot learning, and prompt tuning on graphs.
-{style="text-align: justify;"
