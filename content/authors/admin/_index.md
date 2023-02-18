@@ -18,8 +18,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Science and Technology of China
+    url: https://www.ustc.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,7 +37,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: 1317125762@qq.com
 ---
 Xingtong Yu is a Ph.D. Student at the University of Science and Technology of China(USTC). His research  interset is graph mining, graph neural networks, and learning on heterogeneous information networks. More specifically,  he is investigating the novel research problems such as few-shot learning, and prompt tuning on graphs.
 {style="text-align: justify;"
