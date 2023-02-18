@@ -1,6 +1,6 @@
 ---
 title: Xingtong Yu
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 bio: My research interests include data mining, graph mining and prompt.
 interests:
   - Artificial Intelligence
