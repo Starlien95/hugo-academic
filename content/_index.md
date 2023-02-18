@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-<!--   - block: hero
+  - block: hero
     content:
       title: Hugo Academic Theme
       image:
@@ -29,7 +29,7 @@ sections:
         <!--Custom spacing-->
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>-->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
         gradient_end: '#1976d2'
