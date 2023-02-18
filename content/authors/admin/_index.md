@@ -11,12 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://www.instagram.com/starfishcu/
-    label: Follow me on Instagram
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=VKWhRggAAAAJ&hl=en&inst=14102473421921925766
