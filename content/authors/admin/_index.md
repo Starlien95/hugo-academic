@@ -19,13 +19,10 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=VKWhRggAAAAJ&hl=en&inst=14102473421921925766
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -52,4 +49,4 @@ first_name: Alice
 email: ""
 ---
 Xingtong Yu is a Ph.D. Student at the University of Science and Technology of China(USTC). His research  interset is graph mining, graph neural networks, and learning on heterogeneous information networks. More specifically,  he is investigating the novel research problems such as few-shot learning, and prompt tuning on graphs.
-{style="text-align: justify;"}
+{style="text-align: justify;"
