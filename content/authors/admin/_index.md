@@ -1,6 +1,7 @@
 ---
 title: Xingtong Yu
 role: Ph.D. Student
+avatar_filename: null
 bio: My research interests include data mining, graph mining and prompt.
 interests:
   - Artificial Intelligence
@@ -50,6 +51,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+Xingtong Yu is a Ph.D. Student at the University of Science and Technology of China. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
 {style="text-align: justify;"}
