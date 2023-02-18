@@ -1,7 +1,7 @@
 ---
 title: Xingtong Yu
 role: Ph.D. Student
-avatar_filename: null
+avatar_filename: 微信图片_20230218151913.jpg
 bio: My research interests include data mining, graph mining and prompt.
 interests:
   - Artificial Intelligence
