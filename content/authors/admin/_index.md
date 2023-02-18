@@ -3,10 +3,7 @@ title: Xingtong Yu
 role: Ph.D. Student
 avatar_filename: ""
 bio: My research interests include data mining, graph mining and prompt.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
