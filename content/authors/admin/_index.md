@@ -51,7 +51,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Xingtong Yu is a Ph.D. Student at the University of Science and Technology of China. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xingtong Yu is a Ph.D. Student at the University of Science and Technology of China.He research  interset is graph mining, graph neural networks, and learning on heterogeneous information networks. More specifically,  he is investigating the novel research problems such as few-shot learning, and prompt tuning on graphs.
 
 
 {style="text-align: justify;"}
