@@ -11,10 +11,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: ins
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.instagram.com/starfishcu/
+    label: Follow me on Instagram
     display:
       header: true
   - icon: graduation-cap
@@ -22,7 +22,7 @@ social:
     link: https://scholar.google.com/citations?user=VKWhRggAAAAJ&hl=en&inst=14102473421921925766
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Starlien95
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
