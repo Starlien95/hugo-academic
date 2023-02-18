@@ -11,7 +11,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: ins
+  - icon: twitter
     icon_pack: fab
     link: https://www.instagram.com/starfishcu/
     label: Follow me on Instagram
